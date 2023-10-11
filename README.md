@@ -3,7 +3,7 @@
 
 This is a simple Snake game developed in Python using the Pygame library. It's a classic game where you control a snake to eat food and grow longer while avoiding collisions with the walls and yourself.
 
-![Game Screenshot](.\example1.png)
+![Game Screenshot](example1.png)
 
 ## Prerequisites
 
